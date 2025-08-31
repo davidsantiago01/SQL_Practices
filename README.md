@@ -1,2 +1,2 @@
-### SQL_Subqueries Practice
+# SQL_Subqueries Practice
 
