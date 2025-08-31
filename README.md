@@ -11,7 +11,8 @@ The primary database used for this analysis is Nortwind Sales tables containing 
 
 The goal of this practice is to determine the top sales employees whose sales exceeded the average, and bottom sales employees whose sales did not exceeded the average
 
-Steps to retrieve the top employees (those whose sales exceeded the average):
+
+### Steps to retrieve the top employees (those whose sales exceeded the average):
 
 Select employee information
 1. Retrieve the LastName and FirstName columns from the Employees table.
